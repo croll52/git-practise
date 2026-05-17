@@ -1,2 +1,4 @@
-config =100
-mode=production
+
+config=200
+mode=developmemt
+
