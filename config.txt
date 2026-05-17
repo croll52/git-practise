@@ -1,0 +1,2 @@
+config=200
+mode=developmemt
